@@ -1,4 +1,4 @@
-# Ccześć, Hello, Hola, Bonjour, Konnichiwa, <Hello world!>👋
+# Cześć, Hello, Hola, Bonjour, Konnichiwa, <Hello world!>👋
 
 I'm a creative front-end developer based in Poland. But not so creative at writing something about myself.
 
