@@ -1,10 +1,10 @@
 # Cześć, Hello, Hola, Bonjour, Konnichiwa, <Hello world!>👋
 
-Hi there! I'm Robert, a web dev.
-Growing up, I have always had an affinity for everything tech related. Jailbreaking my parents phone, installing custom ROMS on android phones, dual booting my first PC or modding my game consoles were some of the things that developed my problem solving skills. 
-Creating new experiences, Implementing eye pleasing designs and making them come to life
 
 ## About me
+
+Growing up, I have always had an affinity for everything tech related. Jailbreaking my parents phone, installing custom ROMS on android phones, dual booting my first PC or modding my game consoles were some of the things that developed my problem solving skills. 
+Creating new experiences, Implementing eye pleasing designs and making them come to life
 - 📫 How to reach me: lrobertkipkoech@gmail.com
 
 ## Skills
